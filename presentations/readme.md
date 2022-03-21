@@ -6,7 +6,7 @@ This folder contains the most relevant presentations given during my PhD at EPFL
 
 | Event | Date | Location |
 | ------------- | ------------- | ------------- |
-| [AIRO Young] | 29.03.2019 | Rome, Italy |
+| [AIRO Young Workshop] | 29.03.2019 | Rome, Italy |
 | [TRISTAN] | 17.06.2019 | Hamilton Island, Australia |
 | [Workshop Pricing and RM] | 28.08.2019 | Rotterdam, The Netherlands |
 | [EPFL Internal Seminar] | 30.04.2020 | Online |
@@ -17,7 +17,7 @@ This folder contains the most relevant presentations given during my PhD at EPFL
 
 ## Contact
 
-Please write to Stefano Bortolomiol if you have comments or questions.
+Please write to Stefano Bortolomiol if you have comments or questions:
 _stefano(dot)bortolomiol(at)epfl(dot)ch_
 
 ## License
