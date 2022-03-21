@@ -28,7 +28,7 @@ _stefano(dot)bortolomiol(at)epfl(dot)ch_
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. See StackOverflow: http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
- [AIRO Young]: <https://github.com/stefanoborto/optimization-equilibrium-dcm/blob/main/presentations/20190329_AIROYoung2019.pdf>
+ [AIRO Young Workshop]: <https://github.com/stefanoborto/optimization-equilibrium-dcm/blob/main/presentations/20190329_AIROYoung2019.pdf>
  [TRISTAN]: <https://github.com/stefanoborto/optimization-equilibrium-dcm/blob/main/presentations/20190617_TRISTAN2019.pdf>
  [Workshop Pricing and RM]: <https://github.com/stefanoborto/optimization-equilibrium-dcm/blob/main/presentations/20190828_Workshop_RM_Pricing.pdf>
  [EPFL Internal Seminar]: <https://github.com/stefanoborto/optimization-equilibrium-dcm/blob/main/presentations/20200430_EPFL_Internal_Seminar.pdf>
